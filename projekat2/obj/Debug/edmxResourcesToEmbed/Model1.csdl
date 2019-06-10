@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projekatModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="artikal">
+    <Key>
+      <PropertyRef Name="sifra" />
+      <PropertyRef Name="sifraVrste" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sifraVrste" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="projekatEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="artikal" EntityType="Self.artikal" />
+  </EntityContainer>
+</Schema>

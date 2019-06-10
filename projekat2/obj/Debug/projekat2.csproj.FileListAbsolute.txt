@@ -1,0 +1,41 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\bin\Debug\projekat2.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\bin\Debug\projekat2.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\bin\Debug\projekat2.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\RdlCompile.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\RdlCompile.compiled
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.Artikli.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.Form2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.Nabavke.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.Trebovanje.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\obj\Debug\projekat2.Datum.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\projekat2\projekat2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\projekat2.exe.config
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\projekat2.exe
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\projekat2.pdb
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\EntityFramework.dll
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\EntityFramework.xml
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.csprojAssemblyReference.cache
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.Artikli.resources
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.Datum.resources
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.Form1.resources
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.Form2.resources
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.Nabavke.resources
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.Properties.Resources.resources
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.Trebovanje.resources
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.csproj.GenerateResource.cache
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.csproj.CoreCompileInputs.cache
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.csproj.CopyComplete
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.exe
+C:\Users\Branka\Downloads\projekat2 (3)\projekat2\projekat2\obj\Debug\projekat2.pdb
